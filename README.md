@@ -1,5 +1,6 @@
 # Pastebin-worker
 翻译自：[shz.al](https://github.com/SharzyL/pastebin-worker)
+
 介绍：
 这是一个可以部署在 Cloudflare workers 上的 pastebin（代码片段分享网站）。你可以在 [shz.al](https://shz.al) 上试用它。
 
